@@ -28,33 +28,6 @@ HELP.md
 ### VS Code ###
 .vscode/
 /logs/
-
-app/target/
-backend/target/
-common/target/
-RegCenter/tmp/
-JobTask/target/
-DevService/target/
-dataManageservice/target/
-RegCenter/target
-JobTask/target
-
 */target/
-app/.mvn/
-backend/.mvn/
-app/logs/
-app/src/main/resources/templates/test.html
-backend/logs/
-AuthService/logs/
-/apiProvince/src/main/java/com/jxwifi/kyc/api/controller/ant/AppDevController.java
 *.log
-/DataManageService/logs/
-/DataManageService/src/main/java/com/jxwifi/kyc/test/
 
-/DataManageService/src/main/java/com/jxwifi/kyc/datamanage/service/mq/MQRocketServiceImplTest.java
-/backend/src/main/resources/static/css/
-/backend/src/main/resources/static/fonts/
-/backend/src/main/resources/static/img/
-/backend/src/main/resources/static/js/
-/backend/src/main/resources/static/index.html
-/backend/src/main/resources/templates/index.html
