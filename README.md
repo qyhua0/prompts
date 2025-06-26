@@ -1,5 +1,4 @@
-# Prompts Collection
-
+# 中文提示词 (prompts123.org)
 🚀 一个精心收集高质量AI提示词的开源仓库，帮助您解锁大模型的全部潜力！
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/prompts?style=social)](https://github.com/qyhua0/prompts)
