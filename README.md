@@ -111,7 +111,7 @@ prompts/
 
 感谢所有贡献者！是你们的分享让这个社区充满价值：
 
-[![Contributors](https://contrib.rocks/image?repo=qyhua0/prompts)](https://github.com/qyhua0/prompts/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=qyhua0/prompts&t=20250703)](https://github.com/qyhua0/prompts/graphs/contributors)
 
 ---
 
