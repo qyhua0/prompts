@@ -22,6 +22,7 @@ prompts/
 
 ### 在https://prompts123.org 
 1. 所有仓库提示词会定期更新到https://prompts123.org 网站。
+2. 选择提示词分类 或 直接搜索关键字找到 合适自己的提示词复。
 
 ### 在github操作
 1. 浏览对应类别的Markdown文件
